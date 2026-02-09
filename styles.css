@@ -1,0 +1,27 @@
+/* Intentionally ugly starter CSS.
+
+Your goal in Week 3:
+- Make the page readable (constraints + spacing + line height)
+- Add one responsive behavior (nav wraps, cards become columns, etc.)
+- Make keyboard focus visible
+*/
+
+body {
+  font-family: serif;
+}
+
+header {
+  background: #fff;
+}
+
+nav a {
+  color: blue;
+}
+
+.teaser {
+  /* You will likely replace this with a layout pattern (flex/grid). */
+}
+
+.card {
+  border: 1px solid #000;
+}
