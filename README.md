@@ -46,11 +46,11 @@ I made the navigation wrap and become stacked on smaller screens using a media q
 
 4) Include your before/after screenshots (JPEG/PNG files)
 Before:
-![alt text](image.png)
+![alt text](before.png)
 
 After: 
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](after.png)
+![alt text](after-mobile.png)
 
 5) One DevTools insight you used (Styles/Computed)
 I used Chrome DevTools and checked the Computed tab and Box Model to make sure my padding, margins, and max-width were being applied correctly. This helped me confirm that the layout changes were working as intended and that no default styles were interfering.
