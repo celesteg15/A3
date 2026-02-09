@@ -42,6 +42,7 @@ This example is intentionally “ugly”. Your job is to make it readable.
 
 
 4) Include your before/after screenshots (JPEG/PNG files)
-
+Before:
+![alt text](image.png)
 
 5) One DevTools insight you used (Styles/Computed)
